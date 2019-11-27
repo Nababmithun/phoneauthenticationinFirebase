@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity">
+
+    <Button
+
+
+        android:layout_marginLeft="270dp"
+        android:id="@+id/buttonLogout"
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btnback"
+        android:text="Logout"
+        android:textAllCaps="false"
+        android:textColor="#F7F2F2" />
+
+
+
+
+    <ImageView
+
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:src="@drawable/rrr"
+        android:layout_width="300dp"
+        android:layout_height="300dp"/>
+
+
+
+    <TextView
+        android:textStyle="normal"
+        android:textColor="#000"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Name : Mithun Kumar Riju\n Ezze tecnology Ltd.\nDhaka Bangladesh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

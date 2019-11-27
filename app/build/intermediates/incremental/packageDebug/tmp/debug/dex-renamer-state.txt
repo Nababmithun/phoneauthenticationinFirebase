@@ -1,0 +1,4 @@
+#Mon Nov 25 14:46:07 BDT 2019
+base.0=C\:\\Users\\ETL-PC\\Downloads\\firebase-phone-authentication-master\\phoneauthenticationinFirebase\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
